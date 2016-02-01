@@ -1,0 +1,19 @@
+# Logfile created on 2016-02-01 17:23:27 +0900 by logger.rb/41954
+I, [2016-02-01T17:24:33.797623 #36625]  INFO -- : Successfly login
+I, [2016-02-01T17:24:40.398388 #36625]  INFO -- : save backup file named active_admin_comments.csv
+I, [2016-02-01T17:24:44.377668 #36625]  INFO -- : save backup file named activities.csv
+I, [2016-02-01T17:24:48.437360 #36625]  INFO -- : save backup file named activity_images.csv
+I, [2016-02-01T17:24:52.420721 #36625]  INFO -- : save backup file named companies.csv
+I, [2016-02-01T17:24:56.458003 #36625]  INFO -- : save backup file named company_images.csv
+I, [2016-02-01T17:25:02.541338 #36625]  INFO -- : save backup file named company_profile_images.csv
+I, [2016-02-01T17:25:06.515503 #36625]  INFO -- : save backup file named company_profiles.csv
+I, [2016-02-01T17:25:11.238648 #36625]  INFO -- : save backup file named impressions.csv
+I, [2016-02-01T17:25:15.457480 #36625]  INFO -- : save backup file named inquiries.csv
+I, [2016-02-01T17:25:19.839405 #36625]  INFO -- : save backup file named likes.csv
+I, [2016-02-01T17:25:24.037050 #36625]  INFO -- : save backup file named npo_images.csv
+I, [2016-02-01T17:25:28.390864 #36625]  INFO -- : save backup file named npos.csv
+I, [2016-02-01T17:25:32.694532 #36625]  INFO -- : save backup file named plans.csv
+I, [2016-02-01T17:25:37.253980 #36625]  INFO -- : save backup file named schema_migrations.csv
+I, [2016-02-01T17:25:41.524570 #36625]  INFO -- : save backup file named taggings.csv
+I, [2016-02-01T17:25:45.730993 #36625]  INFO -- : save backup file named tags.csv
+I, [2016-02-01T17:25:45.731116 #36625]  INFO -- : success backup database
